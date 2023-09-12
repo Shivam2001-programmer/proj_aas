@@ -1,0 +1,29 @@
+.contain {
+    display: flex;
+    
+  }
+
+
+  .box1{
+    height: 800px;
+    width: 250px;
+    background-color: rgb(219, 240, 252);
+    margin-left: 10%;
+  }
+
+  .box1 .texts{
+    margin-left: 20px;
+  }
+  
+
+  .box2{
+    height: 450px;
+    width: 800px;
+    background-color: rgb(255, 229, 209);
+    margin-left: 5%;
+  }
+
+
+  .box2 .te{
+    margin-left: 20px;
+  }
